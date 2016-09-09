@@ -19,7 +19,7 @@ if version < (2,7) or (3,0) <= version <= (3,1):
 
 setup(
     name='py-mysql2pgsql',
-    version='0.1.6',
+    version='0.1.7',
     description='Tool for migrating/converting from mysql to postgresql.',
     long_description=open('README.rst').read(),
     license='MIT License',
